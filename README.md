@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### CERTIFICATIONS
+### <img width="40" height="400" alt="image" src="https://github.com/user-attachments/assets/befd1dea-06ac-4b95-b646-1fdf96f4ab68" /> CERTIFICATIONS
 <!-- YT-Video-LIST:START -->
 •	Project Management Professional (PMP)  
 •	SAFe Agilist  
@@ -46,7 +46,7 @@
 
 ---
 
-### EDUCATION   
+### <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/510ebe58-6784-46f9-bcb3-41932a904499" /> EDUCATION   
 
 Master of Science in Computer Applications & Operational Research
 
