@@ -53,10 +53,7 @@
 ### YT Videos
 
 <!-- YT-Video-LIST:START -->
-- [Being a Remote Developer - Understanding Pros and Cons of Working Remotely](https://www.youtube.com/watch?v=lAsmBDVPmEU)
-- [Where to get Remote Software Developer Job as a Fresher](https://www.youtube.com/watch?v=n-nbwb6s7ZE)
-- [How To Get An Internship In India? Tips For Computer Science Students](https://www.youtube.com/watch?v=F3kv-gpQPEA)
-- [Advice For Computer Science Students!](https://www.youtube.com/watch?v=OKXsaiwjx5M)
+
 <!-- YT-Video-LIST:END -->
 
 ---
@@ -64,10 +61,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Get Internship – Complete Internship Search Guide](https://blog.unwiredlearning.com/complete-internship-guide)
-- [Should You Join Unpaid Internship?](https://blog.unwiredlearning.com/unpaid-internship)
-- [Git Basics For Beginners](https://blog.unwiredlearning.com/git-github-notes)
-- [Python Programming For Beginners](https://blog.unwiredlearning.com/python)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
