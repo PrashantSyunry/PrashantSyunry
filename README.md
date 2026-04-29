@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### <img width="40" height="400" alt="image" src="https://github.com/user-attachments/assets/befd1dea-06ac-4b95-b646-1fdf96f4ab68" /> CERTIFICATIONS
+### <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/befd1dea-06ac-4b95-b646-1fdf96f4ab68" /> CERTIFICATIONS
 <!-- YT-Video-LIST:START -->
 •	Project Management Professional (PMP)  
 •	SAFe Agilist  
