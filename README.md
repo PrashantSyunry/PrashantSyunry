@@ -11,13 +11,13 @@
 ---
 
 ### <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/82123cb4-d5a8-4f43-987d-91af8805d248" /> &nbsp;CORE COMPETENCIES
-•⚡️Integration & Release Management, Project/Program Management, Deployment & Implementation Planning.
-•⚡️Estimation, Team Leadership Strategic Alignment, Change Management, Continuous Improvement.
-•⚡️	Collaboration & Influencing, Coaching/Mentoring, Stakeholder Management.
-•⚡️	Tools: Jira, Confluence, Jenkins, Git, GitHub, Share Point, MS-Project, Power Apps, Visio, Office Timelines, Miro.
-•⚡️	Database: Oracle, MS-SQL, Languages: Python, C++, Visual Basic, .Net, R Programming.
-•⚡️	Domains: Telecom (OSS, BSS), Pay TV, Methodologies: Agile-Scrum, Agile-Kanban, Waterfall & Hybrid.
-•⚡️	AI Tools: GitHub Copilot, Microsoft 365 Copilot, Claude and ChatGPT
+⚡️Integration & Release Management, Project/Program Management, Deployment & Implementation Planning.
+⚡️Estimation, Team Leadership Strategic Alignment, Change Management, Continuous Improvement.
+⚡️	Collaboration & Influencing, Coaching/Mentoring, Stakeholder Management.
+⚡️	Tools: Jira, Confluence, Jenkins, Git, GitHub, Share Point, MS-Project, Power Apps, Visio, Office Timelines, Miro.
+⚡️	Database: Oracle, MS-SQL, Languages: Python, C++, Visual Basic, .Net, R Programming.
+⚡️	Domains: Telecom (OSS, BSS), Pay TV, Methodologies: Agile-Scrum, Agile-Kanban, Waterfall & Hybrid.
+⚡️	AI Tools: GitHub Copilot, Microsoft 365 Copilot, Claude and ChatGPT
  
 
 ---
@@ -37,21 +37,33 @@
 
 ---
 
-### YT Videos
+### CERTIFICATIONS
 
 <!-- YT-Video-LIST:START -->
-
+•	Project Management Professional (PMP), SAFe Agilist.
+•	Six Sigma Black Belt, COBIT 5 Foundation, CSQA ITIL Foundation.
+•	Azure Fundamentals, Azure Data Fundamentals, AWS AI Practitioner.
 <!-- YT-Video-LIST:END -->
 
 ---
 
-### Blogs posts
+### PROFESSIONAL EXPERIENCE
 
 <!-- BLOG-POST-LIST:START -->
-
+• Implementation & Deployment Manager – Amdocs, Remote | Aug 2024 – Aug 2025.
+• Project Manager / Scrum Master – Rogers Communications, Brampton | Aug 2023 – Aug 2024.
+• System Implementation Manager – Simplexiar Solutions Inc., Burnaby | Apr 2022 – May 2023.
+• Program Director – CSG International, Bangalore, India | Jun 2020 – Mar 2022.
+• Integration & Development Manager – Amdocs, Pune, India | May 2016 – Jun 2020.
+• Deployment & Project Manager – Amdocs, Kuala Lumpur, Malaysia | May 2011 – Apr 2016.
+• Expert Quality Engineer – Amdocs, Pune, India | 2006 - 2011.
+• Sr. Quality Analyst – Cognetix India Ltd, Hyderabad, India | 2002 – 2006.
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+### EDUCATION
+Master of Science in Computer Applications & Operational Research
 
 ### 🤝🏻 &nbsp;Connect with Me 
 
