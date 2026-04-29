@@ -10,8 +10,7 @@
 
 ---
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b592419b-c0ad-4571-a07b-85052b3ea67b" />
- &nbsp;CORE COMPETENCIES
+### &nbsp;CORE COMPETENCIES
 
   ![Project/Program Managment](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
