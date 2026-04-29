@@ -3,9 +3,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Program / Project Manager.
-- 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS, Git), Backend (Python, Django, DRF, Git) and Data Structures Algorithms).
-- 🌱 &nbsp; Learning more about Entrepreneurship, AI, CryptoCurrencies, Automations and Algorithms.
-- ⚡️ &nbsp; Fun fact: I like playing chess.
+- 💼 &nbsp; Strategic and Seasoned Project and Program Manager with over 10+ years of experience delivering fixed-price enterprise software and transformation projects across global teams.
+- Skilled at leading diverse teams (25+ FTEs), optimizing SDLC processes, and translating complex technical goals into measurable business outcomes. Known for collaborative leadership, strong communication, and a results-oriented approach
+- 🌱 &nbsp; Learning more about Entrepreneurship, AI, CryptoCurrencies, and leadership.
+- ⚡️ &nbsp; Fun fact: I like playing cricket and roaming around.
 
 ---
 
