@@ -1,8 +1,8 @@
-## Hey there, Shubham this side!
+## Hey there, PRASHANT this side!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Fullstack Developer / Educator.
+- 🤔 &nbsp; Program / Project Manager.
 - 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS, Git), Backend (Python, Django, DRF, Git) and Data Structures Algorithms).
 - 🌱 &nbsp; Learning more about Entrepreneurship, AI, CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess.
@@ -37,7 +37,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ShubhamSarda">
+<a href="https://github.com/PrashantSyunry">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
 </a>
