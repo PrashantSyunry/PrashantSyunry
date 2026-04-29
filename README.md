@@ -45,9 +45,13 @@
 <!-- YT-Video-LIST:END -->
 
 ---
-### EDUCATION  
+
+### EDUCATION   
+
 Master of Science in Computer Applications & Operational Research
+
 ---
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/PrashantSyunry">
