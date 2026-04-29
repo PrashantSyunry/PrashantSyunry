@@ -11,7 +11,7 @@
 ---
 
 ### <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/82123cb4-d5a8-4f43-987d-91af8805d248" /> &nbsp;CORE COMPETENCIES
-⚡️Integration & Release Management, Project/Program Management, Deployment & Implementation Planning.  
+⚡️ &nbsp; Integration & Release Management, Project/Program Management, Deployment & Implementation Planning.  
 ⚡️Estimation, Team Leadership Strategic Alignment, Change Management, Continuous Improvement.  
 ⚡️	Collaboration & Influencing, Coaching/Mentoring, Stakeholder Management.  
 ⚡️	Tools: Jira, Confluence, Jenkins, Git, GitHub, Share Point, MS-Project, Power Apps, Visio, Office Timelines, Miro.  
