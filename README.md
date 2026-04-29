@@ -75,9 +75,7 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+<a href="https://www.linkedin.com/in/psyunrys/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-prashants-blue"></a>
+<a href="https://www.instagram.com/psyunry/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-prashant.ul-red"></a>
 </p>
 # Profile
