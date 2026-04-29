@@ -19,7 +19,7 @@
 
 ---
 
-### PROFESSIONAL EXPERIENCE
+### https://pngtree.com/freepng/men-s-work-bag-icon_4635496.html PROFESSIONAL EXPERIENCE
 <!-- BLOG-POST-LIST:START -->
 • Implementation & Deployment Manager – Amdocs, Remote | Aug 2024 – Aug 2025.  
 • Project Manager / Scrum Master – Rogers Communications, Brampton | Aug 2023 – Aug 2024.  
