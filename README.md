@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Learning more about Entrepreneurship, AI, CryptoCurrencies, and leadership.
 - ⚡️ &nbsp; Fun fact: I like playing cricket and roaming around.
 ---
-### <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/82123cb4-d5a8-4f43-987d-91af8805d248" /> CORE COMPETENCIES  
+### <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/82123cb4-d5a8-4f43-987d-91af8805d248" /> CORE COMPETENCIES  
 
 ⚡️Integration & Release Management, Project/Program Management, Deployment & Implementation Planning.  
 ⚡️Estimation, Team Leadership Strategic Alignment, Change Management, Continuous Improvement.  
@@ -19,7 +19,7 @@
 
 ---
 
-### <img "https://pngtree.com/freepng/men-s-work-bag-icon_4635496.html" /> PROFESSIONAL EXPERIENCE
+### <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c69e3a41-08ed-4ad9-9e22-7995c4263c7c" /> PROFESSIONAL EXPERIENCE
 <!-- BLOG-POST-LIST:START -->
 • Implementation & Deployment Manager – Amdocs, Remote | Aug 2024 – Aug 2025.  
 • Project Manager / Scrum Master – Rogers Communications, Brampton | Aug 2023 – Aug 2024.  
