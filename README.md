@@ -2,17 +2,18 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Program / Project Manager.
+-  &nbsp; Program / Project Manager.
 - 💼 &nbsp; Strategic and Seasoned Project and Program Manager with over 10+ years of experience delivering fixed-price enterprise software and transformation projects across global teams.
-- Skilled at leading diverse teams (25+ FTEs), optimizing SDLC processes, and translating complex technical goals into measurable business outcomes. Known for collaborative leadership, strong communication, and a results-oriented approach
+- 💼 &nbsp; Skilled at leading diverse teams (25+ FTEs), optimizing SDLC processes, and translating complex technical goals into measurable business outcomes. Known for collaborative leadership, strong communication, and a results-oriented approach
 - 🌱 &nbsp; Learning more about Entrepreneurship, AI, CryptoCurrencies, and leadership.
 - ⚡️ &nbsp; Fun fact: I like playing cricket and roaming around.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b592419b-c0ad-4571-a07b-85052b3ea67b" />
+ &nbsp;CORE COMPETENCIES
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Project/Program Managment](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
