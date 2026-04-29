@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Learning more about Entrepreneurship, AI, CryptoCurrencies, and leadership.
 - ⚡️ &nbsp; Fun fact: I like playing cricket and roaming around.
 ---
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/82123cb4-d5a8-4f43-987d-91af8805d248" /> &nbsp;CORE COMPETENCIES  
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/82123cb4-d5a8-4f43-987d-91af8805d248" /> ### CORE COMPETENCIES  
 
 ⚡️Integration & Release Management, Project/Program Management, Deployment & Implementation Planning.  
 ⚡️Estimation, Team Leadership Strategic Alignment, Change Management, Continuous Improvement.  
