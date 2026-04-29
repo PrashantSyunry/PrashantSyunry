@@ -45,7 +45,7 @@
 <!-- YT-Video-LIST:END -->
 
 ---
-### EDUCATION
+### EDUCATION  
 Master of Science in Computer Applications & Operational Research
 ---
 ### ⚙️ &nbsp;GitHub Analytics
